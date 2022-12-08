@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(Strawberry)
+project(Hermite-TENO)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_FLAGS_DEBUG "-Wall -ffloat-store -O3")
